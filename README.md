@@ -1,7 +1,7 @@
 # Ultra-low Dose PET Imaging Challenge
 > This is an example of the PET imaging is used to recovere high-quality imaging from low dose scans imaging.
 
-![](Ultra-low Dose PET Imaging Challenge.jpg)
+![](challenge.jpg)
 
 ## Prerequisities
 The following dependencies are needed:
@@ -20,17 +20,29 @@ The following dependencies are needed:
 ## Result
 
 #  1-2 dose predict result
-![](1-2.png)
+![](1-2dose.png)
+![](full.png)
+![](1-2dose_pd.png)
 #  1-4 dose predict result
-![](1-4.png)
+![](1-4dose.png)
+![](full.png)
+![](1-4dose-pd.png)
 #  1-10 dose predict result
-![](1-10.png)
+![](1-10dose.png)
+![](full.png)
+![](1-10dose-pd.png)
 #  1-20 dose predict result
-![](1-20.png)
+![](1-20dose.png)
+![](full.png)
+![](1-20dose-pd.png)
 #  1-50 dose predict result
-![](1-50.png)
+![](1-50dose.png)
+![](full.png)
+![](1-50dose-pd.png)
 #  1-100 dose predict result
-![](1-100.png)
+![](1-100dose.png)
+![](full.png)
+![](1-100dose-pd.png)
 
 * you can find the trained model in log folder.
 * more detail and trained model can follow my WeChat Public article.
