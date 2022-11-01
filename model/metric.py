@@ -235,7 +235,7 @@ def calc_psnr(input: Tensor, target: Tensor, mean: Tensor, std: Tensor):
     eps = 1e-7
     psnr = 0
     for batch in range(num):
-        mse = torch.mean((input[batch] - target[batch]) ** 2)
+        mse = torch.mean((input[batch]* std[batch] - target[batch]* std[batch]) ** 2)
         max = torch.max(target[batch] * std[batch] + mean[batch])
         psnr += 10 * torch.log10(max ** 2 / mse + eps)
     return psnr / num
