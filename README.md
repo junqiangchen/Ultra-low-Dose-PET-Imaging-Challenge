@@ -21,9 +21,9 @@ The following dependencies are needed:
 
 ## Video
 
-[Video 1](./2026.08.18-11.23.03.mp4)
+<video src="https://github.com/junqiangchen/Ultra-low-Dose-PET-Imaging-Challenge/blob/main/assets/2026.08.18-11.23.03.mp4" controls width="800"></video>
 
-[Video 2](./2026.08.18-11.24.09.mp4)
+<video src="https://github.com/junqiangchen/Ultra-low-Dose-PET-Imaging-Challenge/blob/main/assets/2026.08.18-11.24.09.mp4" controls width="800"></video>
 
 #  1-2 dose predict result
 ![](1-2dose.png)
