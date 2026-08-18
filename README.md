@@ -19,15 +19,11 @@ The following dependencies are needed:
 
 ## Result
 
-### Video 1
+## Video
 
-<video src="./2026.08.18-11.23.03.mp4" controls width="800">
-</video>
+[Video 1](./2026.08.18-11.23.03.mp4)
 
-### Video 2
-
-<video src="./2026.08.18-11.24.09.mp4" controls width="800">
-</video>
+[Video 2](./2026.08.18-11.24.09.mp4)
 
 #  1-2 dose predict result
 ![](1-2dose.png)
